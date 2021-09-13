@@ -1,0 +1,556 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Search><pages Count="12"><page Index="1"><![CDATA[UNIVERSIDAD MAYOR DE SAN ANDRÉS
+
+
+                                           FACULTAD DE INGENIERÍA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                               REVISTA INFORMATIVA
+
+
+                    ELABORACIÓN
+
+
+
+
+
+
+                  DE EMBUTIDOS
+
+
+
+
+
+
+
+
+                                         GRUPO: LA COLMENA DAATH
+
+                                      INTEGRANTES:
+
+                                          Univ. Choque Santos Carolina Alison
+                                          Univ. Duran Toledo Gustavo Emil
+
+
+                                          Univ. Magne Cadena Luis Ricardo
+
+                                          Univ. Marquez Arias Ana Jael
+
+                                          Univ. Paye Choque Celenia Sindy
+
+                                          Univ. Quino Mollo María Guadalupe
+
+                                          Univ. Renjifo Vargas Helga Misell
+
+                                          Univ. Tapia Condo Laura
+
+
+
+                                                          LA PAZ - BOLIVIA
+
+
+
+
+
+                                                              LA PAZ – BOLIVIA]]></page><page Index="2"><![CDATA[]]></page><page Index="3"><![CDATA[DESCRIPCIÓN DE LA EMPRESA
+
+
+                1.  DESCRIPCIÓN DEL SISTEMA
+
+            Es el sistema de producción de “EMBUTIDOS”; pertenece a la industria de elaboración de productos
+
+            alimenticios, cuenta con tres líneas de producción: Salchichas, Mortadela y Chorizos.
+
+
+                                    CARACTERÍSTICAS DE LA PRODUCCIÓN
+
+                                              Producción de Salchicha
+                          LÍNEAS DE
+                         PRODUCCIÓN           Producción de Mortadela
+                                              Producción de Chorizo
+                         NUMERO DE                                     22
+                          OPERARIOS
+                                              Cortadora de carne
+                                              Moledora de carne
+                           TIPOS DE           Mezcladora de carne
+                         MAQUINARIA           Embutidora
+                                              Cocinas de acero industrial y ollas de acero inoxidable.
+                                              Hornos de secado y ahumado
+                         SISTEMA DE           Funcional por Lotes
+                         PRODUCCIÓN
+                        CANTIDAD DE           13  procesos  sin  contar  almacenes  intermedios  e
+                          PROCESOS            inspecciones.
+                         ALMACENES            4 almacenes intermedios y un almacén final.
+                        INTERMEDIOS
+                        PROCESOS DE                                     2
+                         INSPECCIÓN
+                           ESPERAS                                      2
+
+                                               TIEMPOS DE TRABAJO
+
+
+                                  Turnos de trabajo                 1
+                                  Duración del turno                10 horas
+                                  Días de trabajo por semana        6 días
+                                  Días de trabajo por mes           24 días
+                                  Días de trabajo por producto/mes  8 días
+
+                2.  DESCRIPCIÓN DE LOS PRODUCTOS
+
+
+                    PRODUCTO                  IMAGEN               CARACTERÍSTICAS  PRECIO
+
+
+                                                                       Peso = 0,35 Kg
+                   SALCHICHAS                                                                  16 Bs
+                                                                         10 unidades
+
+
+
+                                                                        Peso = 3,8 Kg
+                   MORTADELA                                                                  160 Bs
+                                                                          1 unidad]]></page><page Index="4"><![CDATA[Peso = 0,35 Kg          30 Bs
+                                                                         4 unidades
+
+
+                3.  LAYOUT 2D
+
+                                   DESCRIPCIÓN DEL PROCESO PRODUCTIVO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            En el  gráfico se observa como se procesa  la materia  prima,  y una breve descripción  de lo que se
+
+            realiza en cada área del sistema de producción.]]></page><page Index="5"><![CDATA[4.  LAYOUT 3D
+
+            En el LayOut 3D también se puede ver la distribución del sistema, pero en 3D.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            En el video se observa el modelado de la planta en el programa de SketchUp, y su recorrido en el tour
+            virtual.
+
+
+                5.  INFORMACIÓN DETALLADA DE CADA ESTACIÓN DE TRABAJO
+
+
+            Las siguientes tablas resumen muestran las actividades que adicionan valor al producto, el número de
+
+            operarios  por  estación  de trabajo,  tiempos  de procesamiento,  tiempos  de preparación,  demoras,
+
+            mermas,  defectuoso y unidades producidas por ciclo,  para  la obtención de estos datos se hizo  un
+            análisis estadístico de los datos obtenidos en diferentes fuentes.
+
+                •  ELABORACIÓN DE MORTADELA
+                                                          MORTADELA
+
+                                                            Tiempo
+                                       Tiempo requerido
+                                             (min)        Preparación
+                               N°                            (min)      Demoras                         U/Ciclo
+               Procesos                                                        Uptime  Mermas  Defectos
+                            operarios                                  (min)                              kg
+                                       TO    Variabilidad   Tsetup
+                                       (min)     (min)       (min)
+          INSPECCIÓN            1       5          -           -         -      82%      0%      0%      400,0
+          CORTADO               2       45        5           10         -      82%      6%      0%      376,0
+          DESHUESADO            6      120        10          5          -      82%     21%      0%      297,0
+          MOLIDO                2       15        5           8          -      82%      0%      0%      297,0
+          PREPARADO  DE         1       10         -           -         -      82%      0%      0%      297,0
+          ADITIVO
+          MEZCLADO              2       50        5           10         4      82%      0%      0%      392,0]]></page><page Index="6"><![CDATA[PREPARADO  DE         1       10         -          5          -      82%      0%      0%      392,0
+          TRIPAS
+          EMBUTIDO              1       40        7           7          -      82%      0%      0%      392,0
+          COCCIÓN               1      120        10          10         4      82%      0%      0%      392,0
+          SECADO                1       25        5           3          -      82%      0%      0%      392,0
+          ENFRIADO              1       30        4           5          5      82%      0%      0%      392,0
+          EMPAQUETADO           2       65        5           5          -      82%      0%      2%      384,2
+          ALMACÉN FINAL         1       5          -           -         -      82%      0%      0%      384,2
+
+
+            En la tabla se observan los datos de tiempos por operación del proceso y estos datos se utilizarán para
+            realizar  el  cálculo  de la  cantidad de  materia  prima  que  se  necesitará  en  un  tiempo  de  estudio
+
+            determinado o  para  calcular  la  cantidad  de  materia  prima  que  se  necesitará  para  cumplir  con  la
+
+            demanda mensual de mortadela en diferentes épocas del año.
+
+
+                •  ELABORACIÓN DE SALCHICHA
+
+
+            Los datos de la tabla anterior son importantes ya que estos datos ayudarán al analista a calcular la
+                                                         SALCHICHAS
+
+                                                           Tiempo
+                                      Tiempo requerido   Preparación
+                              N°            (min)                    Demoras                            U/Ciclo
+              Procesos                                      (min)             Uptime  Mermas  Defectos
+                           operarios                                   (min)                              kg
+                                     TO     Variabilidad   Tsetup
+                                     (min)     (min)        (min)
+          INSPECCIÓN          1        5         -            -          -     82%      0%       0%      250,0
+          CORTADO             2       30         7           10          -     82%      6%       0%      235,0
+          DESHUESADO          6       90        13            5          -     82%     21%       0%      185,7
+          MOLIDO              2       15         3            8          -     82%      0%       0%      185,7
+          PREPARADO  DE
+          ADITIVO             1       10         -            -          -     82%      0%       0%      185,7
+          MEZCLADO            2       50         5           10         4      82%      0%       0%      246,9
+          PREPARADO  DE
+          TRIPAS              1       10         -            5          -     82%      0%       0%      246,9
+          EMBUTIDO            1       50         7            7          -     82%      0%       0%      246,9
+          COCCIÓN             1      120        10           10         4      82%      0%       0%      246,9
+          SECADO              1       25         5            3          -     82%      0%       0%      246,9
+          ENFRIADO            1       30         4            5         5      82%      0%       0%      246,9
+          EMPAQUETADO         2      105         9            5          -     82%      0%       2%      242,0
+          ALMACÉN
+          FINAL               1        5         -            -          -     82%      0%       0%      242,0
+            cantidad de materia prima que es necesaria para la elaboración de salchichas por lote de producción,
+            por lo que el analista será capaz de calcular la cantidad de materia prima necesaria para cumplir con
+
+            la demanda mensual y podrá hacer planes para los siguientes meses.]]></page><page Index="7"><![CDATA[•  ELABORACIÓN DE CHORIZO
+
+                                                       CHORIZOS
+                                                             Tiempo
+                                       Tiempo requerido
+                              N°            (min)          Preparación   Demoras                         U/Ciclo
+              Procesos                                        (min)             Uptime  Mermas  Defectos
+                           operarios                                     (min)                             kg
+                                       TO     Variabilidad
+                                      (min)      (min)     Tsetup (min)
+          INSPECCIÓN          1        5           -            -          -     82%      0%      0%      180,0
+          CORTADO             2        25          7           10          -     82%      6%      0%      169,2
+          DESHUESADO          6        80         10           5           -     82%     21%      0%      133,7
+          MOLIDO              2        15          3           8           -     82%      0%      0%      133,7
+          PREPARADO  DE       1        10          -            -          -     82%      0%      0%      133,7
+          ADITIVO
+          MEZCLADO            2        50          5           10         4      82%      0%      0%      147,7
+          PREPARADO  DE
+          TRIPAS              1        5           -           5           -     82%      0%      0%      147,7
+          EMBUTIDO            1        40          7           7           -     82%      0%      0%      147,7
+          AHUMADO             1       140         15           3           -     82%      0%      0%      147,7
+          SECADO              1        25          4           5           -     82%      0%      0%      147,7
+          ENFRIADO            1        30          8           5          5      82%      0%      0%      147,7
+          EMPAQUETADO         2       100         10           5           -     82%      0%      2%      144,7
+          ALMACÉN
+          FINAL               1        5           -            -          -     82%      0%      0%      144,7
+
+
+
+            En la tabla se muestran datos que deben ser tomados en cuenta para  el calculo de la materia prima
+            que se necesitará en la producción de salchichas.
+
+
+                6.  INFORMACIÓN PARA EL CALCULO DE LOS ÍNDICES DE PRODUCTIVIDAD
+
+                                       CANTIDADES PRODUCIDAS AL MES
+
+                                             CANTIDADES PRODUCIDA AL MES
+                                                   CANTIDAD                       PRECIO
+                                                                  UNIDADES
+                                                      EN Kg                         (Bs)
+                             MORTADELAS               2421,9          637           160
+                             SALCHICHAS               1515,5          4330           16
+                             CHORIZOS                 1069,0          3054           30
+            En la tabla se muestran datos estándar que la empresa  debería producir en um mes de trabajo y la
+
+            equivalencia de esas cantidades en unidades que representan a los sachets en los que se empacan los
+            embutidos.
+
+                                          CANTIDAD DE MATERIA PRIMA
+                                                   POLLO
+                        PRODUCTO                               CERDO kg         RES kg
+                                                      kg
+              ELABORACIÓN DE MORTADELA               2000          1200            0
+              ELABORACIÓN DE SALCHICHAS              1000          1000            0
+              ELABORACIÓN DE CHORIZOS                  0           1000           450
+              TOTAL, AL MES                          3000          3200           450
+              PRECIO                                Bs12,00      Bs15,00        Bs15,00]]></page><page Index="8"><![CDATA[En la tabla se tienen datos de la cantidad de materia prima  que se necesitan y los  precios de cada
+
+            producto por kilogramo.
+
+
+                7.  DEMANDA DE LOS PRODUCTOS:
+
+            La demanda de estos productos puede variar según los meses del año o las estaciones, por ejemplo,
+            la demanda de los productos sube en el mes de junio, por “San Juan” es un mes en el cual se produce
+
+            en mayores cantidades para cumplir la demanda, ya que el consumo de estos productos es elevado.
+
+
+                 DEMANDA MENSUAL ESTIMADA DE EMBUTIDOS EN LA PAZ - BOLIVIA EN
+                                                        KG/MES
+                            Mes              SALCHICHA              CHORIZO           MORTADELA
+                         ENERO                   3.827,8              2.113,5              679,5
+                        FEBRERO                  3.708,4              2.901,8              827,3
+                         MARZO                   5.282,0              3.438,8              898,3
+                          ABRIL                  3.868,1              2.804,0              815,3
+                          MAYO                   3.578,4              2.640,2              731,0
+                          JUNIO                  6.367,6              5.082,3              771,0
+                          JULIO                  1.362,1              1.891,8              487,0
+                         AGOSTO                  3.572,9              3.637,7              701,8
+                      SEPTIEMBRE                 3.029,5              2.577,2              669,3
+                        OCTUBRE                  4.328,8              3.415,3              1.075,0
+                      NOVIEMBRE                  6.195,5              2.797,5              1.198,3
+                       DICIEMBRE                 5.704,9              2.516,0              1.151,8
+
+            Los  datos de la  demanda son  útiles  para  analizar  si  la  empresa  puede cumplir  con  la  cantidad
+
+            demandad o si se necesitará ampliar la capacidad de producción.
+            Cantidad Mano de Obra
+
+            A continuación, se describe los puestos que existen en la fábrica de embutidos y sus
+
+            Respectivos sueldos:
+                                  DESCRIPCIÓN DEL PERSONAL DE LA PLANTA
+
+                                                                       COSTO          TOTAL
+                                OPERARIO             CANTIDAD
+                                                                       Bs/mes
+                        Gerente General                  1             27.000          27000
+                        Jefe de planta                   1             15.000          15.000
+                        Gerente de producción            1             7.500           7.500
+                        Administración                   2             2.200           4.400
+                        Operario en planta               22            2.122           46.684
+            Estos datos son necesarios para el calculo de la productividad de la materia prima.
+
+            Cantidad de Energía
+                                             ENERGÍA CONSUMIDA POR MES
+                                             ÁREA           Kw/h (anual)   Kw/h (mensual)
+                                       Producción - Planta   38789.84         3232.49
+                                         Administración       2919.66          243.31]]></page><page Index="9"><![CDATA[Estos datos son necesarios para el cálculo de la productividad de la energía consumida.
+
+            Datos de la maquinaria
+
+                                             COSTOS DE MAQUINARIA
+                                                                               Años de
+                                      Descripción       Valor ($)  Valor (Bs)
+                                                                                 vida
+                                  Molido de carne         3100       21576        10
+                                  Cutter                  6500       45240        10
+                                  Embutidora              7450       51852        10
+                                  Cámara de frio          5000       34800        15
+                                  Horno / ahumador        9000       62640        10
+
+            Estos datos son necesarios para calcular la depreciación de la maquinaria por mes de trabajo.
+            Capital de trabajo
+                                CAPITAL INVERTIDO PARA UN MES DE PRODUCCIÓN
+
+                                                        CAPITAL
+                                                                 Depreciación    Total
+                                     Descripción      Cantidad
+                                                                   (Bs/mes)     (Bs/mes)
+                                 Molido de carne         1          179.8        179.8
+                                 Cutter                  1           377          377
+
+                                 Embutidora              1          432.1        432.1
+                                 Camara de frio          1          193.33      193.33
+
+                                 Horno / ahumador        1           522          522
+
+            Estos datos son necesarios para el cálculo de la depreciación del capital de trabajo por mes.
+
+
+                8.  FLUJO DE INFORMACIÓN
+                                       DIAGRAMA DEL FLUJO DE INFORMACIÓN]]></page><page Index="10"><![CDATA[9.  SIMULACIÓN 3D EN Flexsim
+
+                                  CONSTRUCCIÓN DEL SISTEMA EN FLEXSIM
+            Se configuraron tres tipos de producto:
+
+                                             TIPO 1          MORTADELA
+                                             TIPO 2          SALCHICHA
+                                             TIPO 3          CHORIZO
+
+            El source, que hace entrega de la materia  prima está configurado con un Arribal  Schedule, el cual
+            entrega el material de la siguiente manera:
+
+                                 CONFIGURACIÓN DE LA FUENTE DE MATERIA PRIMA
+                                         Arribal
+                                                     ITEMNAME         Quanty     TYPE
+                                         time
+                              Arribal 1   600        Product          1          1
+                              Arribal 2   1200       Product          1          2
+
+                              Arribal 3   1800       Product          1          3
+                              …          …           Product          1          …
+                              Arribal 24  14400      Product          1          3
+
+                    Se configuró para un mes de producción, por lo que se tienen 24 días en los que el proveedor
+            envía materia prima para cada tipo de producto.
+
+
+            La cantidad de materia prima que entra es:
+                                       CANTIDAD DE KG POR LOTE DE ENTRADA
+                                           Cantidad de lotes que      Cantidad de Kg por lote
+                            Producto
+                                               entran por día                  por día
+                          Mortadela                  1                          400
+                          Salchicha                  1                          250
+                          Chorizo                    1                          180
+                    Para los tiempos de proceso se programó cada uno mediante una tabla global según a los datos
+            de las  tablas  resumen  de información  técnica  para  la  elaboración  de la  Mortadela,  Salchicha  y
+
+            Chorizo, siguiendo una distribución normal.
+
+
+            Cantidad de productos terminados:
+                                            CANTIDAD POR LOTE DE SALIDA
+
+                          Producto                   Cantidad de Kg por lote de salida
+                          Mortadela                                384,2
+                          Salchicha                                242,0
+                          Chorizo                                  144,7
+                    La cantidad de unidades que salgan en el FlexSim deben ser multiplicadas por la cantidad de
+            Kg por lote de salida de cada producto, para obtener la cantidad total de Kg de productos por mes.]]></page><page Index="11"><![CDATA[SIMULACIÓN EN FLEXSIM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Esta  simulación  le  permitirá  ver  al  estudiante de  manera  más  realista  el  flujo  del proceso  y  la
+
+            capacidad de la planta.]]></page><page Index="12"><![CDATA[]]></page></pages></Search>
